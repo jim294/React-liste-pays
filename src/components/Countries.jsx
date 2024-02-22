@@ -30,7 +30,7 @@ const Countries = () => {
             <input
               type="radio"
               name="continentradio"
-              checked={continent==selectedRadio}
+              checked={continent===selectedRadio}
               id={continent}
               onChange={(e) => setSelectedRadio(e.target.id)}
             />
