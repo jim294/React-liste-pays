@@ -1,18 +1,18 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Layout from "./components/Layout.jsx";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
     <Layout>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="*" element={<Home />} />
       </Routes>
       </Layout>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
