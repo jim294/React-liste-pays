@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/React-liste-pays/static/css/main.acf4c694.css",
-    "main.js": "/React-liste-pays/static/js/main.0ef4294f.js",
+    "main.css": "/React-liste-pays/static/css/main.8180b772.css",
+    "main.js": "/React-liste-pays/static/js/main.ae0978d0.js",
+    "static/media/ciel-etoile.jpg": "/React-liste-pays/static/media/ciel-etoile.09dd8a8a68f382cf58dc.jpg",
     "static/media/main.jpg": "/React-liste-pays/static/media/main.516fbcd135926107480c.jpg",
     "static/media/JosefinSans-Medium.ttf": "/React-liste-pays/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
     "index.html": "/React-liste-pays/index.html",
-    "main.acf4c694.css.map": "/React-liste-pays/static/css/main.acf4c694.css.map",
-    "main.0ef4294f.js.map": "/React-liste-pays/static/js/main.0ef4294f.js.map"
+    "main.8180b772.css.map": "/React-liste-pays/static/css/main.8180b772.css.map",
+    "main.ae0978d0.js.map": "/React-liste-pays/static/js/main.ae0978d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.acf4c694.css",
-    "static/js/main.0ef4294f.js"
+    "static/css/main.8180b772.css",
+    "static/js/main.ae0978d0.js"
   ]
 }
