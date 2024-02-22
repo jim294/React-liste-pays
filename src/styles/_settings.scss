@@ -30,3 +30,10 @@ body {
 li {
   list-style-type: none;
 }
+
+.main {
+  display: flex;
+  flex-direction: column;
+  margin: 40px;
+  gap: 50px;
+}
